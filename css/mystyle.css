@@ -1,0 +1,54 @@
+/*Fonts Being Used
+font-family: 'Montserrat', sans-serif;
+font-family: 'Arvo', serif;
+font-family: 'Pridi', serif;
+Test color #7f192f
+color: #dd2a51;
+*/
+
+body{
+    /*background-image: url(../assets/bgImg.jpeg);*/
+    background-color: #cfdee7;
+    color: #000;
+    font-family: 'Pridi', serif;
+    font-size: 18px;    
+    line-height: 1.5;
+    padding-bottom: 2px; /*To view footer*/
+}
+.content-header {
+    font-size: 80px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #7f192f;
+    padding-top: 75px;
+    padding-bottom: 50px;
+}
+.navbar{
+    font-size: 22px;
+    background-color: #183642;
+    padding-right: 15px;
+}
+.navbar-brand{
+    font-size: 30px;
+    color: #2ec4b6;
+}
+.navbar-static-bottom{
+    background-color: #183642;
+}
+.dropdown-menu{
+    background-color: #545f66;
+    font-family: 'Arvo', serif;
+    font-size: 14px;
+    color: #2ec4b6;
+}
+.navbar-text{
+    font-size: 20px;
+    color: #2ec4b6;
+}
+.dropdown{
+    background-color: #183642;
+    color: #2ec4b6;
+}
+.social-icons{
+    float: right;
+}
